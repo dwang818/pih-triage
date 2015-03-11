@@ -1,0 +1,6 @@
+/Users/Josh/Dropbox/Harvard College/Freshman/Activities/D4D/PIH/basicexample/api/src/main/java/org/openmrs/module/basicexample/api/db/HelloWorldExampleDAO.java
+/Users/Josh/Dropbox/Harvard College/Freshman/Activities/D4D/PIH/basicexample/api/src/main/java/org/openmrs/module/basicexample/api/db/hibernate/HibernateHelloWorldExampleDAO.java
+/Users/Josh/Dropbox/Harvard College/Freshman/Activities/D4D/PIH/basicexample/api/src/main/java/org/openmrs/module/basicexample/api/impl/HelloWorldExampleServiceImpl.java
+/Users/Josh/Dropbox/Harvard College/Freshman/Activities/D4D/PIH/basicexample/api/src/main/java/org/openmrs/module/basicexample/api/HelloWorldExampleService.java
+/Users/Josh/Dropbox/Harvard College/Freshman/Activities/D4D/PIH/basicexample/api/src/main/java/org/openmrs/module/basicexample/HelloWorldExample.java
+/Users/Josh/Dropbox/Harvard College/Freshman/Activities/D4D/PIH/basicexample/api/src/main/java/org/openmrs/module/basicexample/HelloWorldExampleActivator.java
